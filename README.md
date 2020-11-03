@@ -1,3 +1,6 @@
 
 # Benvenuti! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PotassioK)](https://github.com/anuraghazra/github-readme-stats)
+
+non mi va di stare a finire sto coso quindi addio 
