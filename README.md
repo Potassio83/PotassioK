@@ -5,7 +5,6 @@
 - 📫 How to reach me **𝓟𝓸𝓽𝓪𝓼𝓼𝓲𝓸#6969**   ||    **marco@potassio.dev**
 
 
-- I'm learning java
 
 ![stats](https://github-readme-stats.vercel.app/api?username=PotassioK&layout=compact)
 
