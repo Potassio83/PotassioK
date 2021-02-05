@@ -11,3 +11,5 @@
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotassioK&layout=compact)
 
+<img src="https://cdn.discordapp.com/emojis/807300930856419448.gif?v=1" width="100px">
+
