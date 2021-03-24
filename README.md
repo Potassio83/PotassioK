@@ -6,10 +6,10 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=PotassioK&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=PotassioK&layout=compact&theme=radical)
 
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotassioK&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotassioK&layout=compact&theme=radical)
 
 <img src="https://cdn.discordapp.com/emojis/807300930856419448.gif?v=1" width="100px">
 
