@@ -6,9 +6,6 @@
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=PotassioK&layout=compact&theme=radical)        ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PotassioK&layout=compact&theme=radical)
-
-
 
 
 
